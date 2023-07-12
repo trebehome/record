@@ -95,7 +95,7 @@
             </div>
             
             <div class="text-start">
-                <input type="password" class="form-control poppins-light" id="password">
+                <input type="text" class="form-control poppins-light" id="password">
             </div>
             <br>
             
@@ -103,19 +103,42 @@
             <button class="btn btn-dark btn-lg text-white" id="gorecordbutton" onclick="redirectToLink()">GO</button>
             
             <script>
+                
+                
+                
+            
                 function redirectToLink() {
-                    var password = document.getElementById('password').value;
+                    const API_URL = "https://api.trebesrv.com/";
+        
+            
                     
+                    let apiKey = document.getElementById('password').value;
+            
                     
-                    if (password === "12345") {
-                        sessionStorage.setItem("authenticated", true);
-                        window.location.href = "https:\/\/trebehome.github.io\/record\/ca\/recorder\/record\/";
-                    } else {
-                        
-                        alert("Contraseña incorrecta. No se puede acceder al enlace.");
-                    }
+                    let fetchData = {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                            'apikey': apiKey,
+                        }
+                    };
+            
+                    
+                    fetch(API_URL, fetchData)
+                        .then(res => {
+                            if (res.ok) {
+                                alert("¡Conexión exitosa con la API!");
+                                window.location.href = "https:\/\/trebehome.github.io\/record\/ca\/recorder\/record\/";
+                            } else {
+                                throw new Error("Error de conexión con la API");
+                            }
+                        })
+                        .catch((error) => {
+                            console.log(error); 
+                        })
                 }
             </script>
+            
             
             
         </div>
