@@ -56,6 +56,33 @@
                 href="https://trebehome.github.io/record/gl/categories/"
                 />
   </url><url>
+    <loc>https://trebehome.github.io/record/gl/gravadora/online/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/grabadora/online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/grabagailu/online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/recorder/online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/gravadora/online/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/gravadora/online/"
+                />
+  </url><url>
     <loc>https://trebehome.github.io/record/gl/request/</loc>
     <xhtml:link
                 rel="alternate"
@@ -351,33 +378,6 @@
                 rel="alternate"
                 hreflang="gl"
                 href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/streaming/"
-                />
-  </url><url>
-    <loc>https://trebehome.github.io/record/gl/transcrici%C3%B3n/online/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://trebehome.github.io/record/es/transcripci%C3%B3n/online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="eu"
-                href="https://trebehome.github.io/record/eu/transkribatu/online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trebehome.github.io/record/en/transcribe/online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="https://trebehome.github.io/record/ca/transcripci%C3%B3/online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gl"
-                href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/online/"
                 />
   </url><url>
     <loc>https://trebehome.github.io/record/gl/translate/</loc>

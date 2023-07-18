@@ -191,31 +191,31 @@
                 href="https://trebehome.github.io/record/eu/itzuli/testua/"
                 />
   </url><url>
-    <loc>https://trebehome.github.io/record/eu/transkribatu/online/</loc>
+    <loc>https://trebehome.github.io/record/eu/grabagailu/online/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trebehome.github.io/record/es/transcripci%C3%B3n/online/"
+                href="https://trebehome.github.io/record/es/grabadora/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trebehome.github.io/record/en/transcribe/online/"
+                href="https://trebehome.github.io/record/en/recorder/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://trebehome.github.io/record/ca/transcripci%C3%B3/online/"
+                href="https://trebehome.github.io/record/ca/gravadora/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
-                href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/online/"
+                href="https://trebehome.github.io/record/gl/gravadora/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eu"
-                href="https://trebehome.github.io/record/eu/transkribatu/online/"
+                href="https://trebehome.github.io/record/eu/grabagailu/online/"
                 />
   </url><url>
     <loc>https://trebehome.github.io/record/eu/request/</loc>
