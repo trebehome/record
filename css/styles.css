@@ -353,9 +353,16 @@ button:focus {
 
 }
 
+
+
+
 #doctransButton,
 #subtransButton {
     width: 35% !important;
+}
+
+#transcribeButton {
+    width: 40% !important;
 }
 
 #clipboard {

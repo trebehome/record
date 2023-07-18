@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language><atom:link href="https://trebehome.github.io/record/ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Síntesi de veu</title>
+      <link>https://trebehome.github.io/record/ca/s%C3%ADntesi/text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trebehome.github.io/record/ca/s%C3%ADntesi/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sol·licitar clau</title>
       <link>https://trebehome.github.io/record/ca/sollicitar/clau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,11 +25,47 @@
     </item>
     
     <item>
-      <title>Transcripció online</title>
-      <link>https://trebehome.github.io/record/ca/recorder/record/</link>
+      <title>Traducció</title>
+      <link>https://trebehome.github.io/record/ca/traducci%C3%B3/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://trebehome.github.io/record/ca/recorder/record/</guid>
+      <guid>https://trebehome.github.io/record/ca/traducci%C3%B3/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traducció de documents</title>
+      <link>https://trebehome.github.io/record/ca/traducci%C3%B3/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trebehome.github.io/record/ca/traducci%C3%B3/documents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traducció de subtítols</title>
+      <link>https://trebehome.github.io/record/ca/traducci%C3%B3/subt%C3%ADtols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trebehome.github.io/record/ca/traducci%C3%B3/subt%C3%ADtols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcripció</title>
+      <link>https://trebehome.github.io/record/ca/transcripci%C3%B3/multim%C3%A8dia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trebehome.github.io/record/ca/transcripci%C3%B3/multim%C3%A8dia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcripció en streaming</title>
+      <link>https://trebehome.github.io/record/ca/transcripci%C3%B3/streaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trebehome.github.io/record/ca/transcripci%C3%B3/streaming/</guid>
       <description></description>
     </item>
     

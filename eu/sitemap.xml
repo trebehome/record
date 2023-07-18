@@ -29,6 +29,60 @@
                 href="https://trebehome.github.io/record/eu/"
                 />
   </url><url>
+    <loc>https://trebehome.github.io/record/eu/sintesia/testua/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/s%C3%ADntesis/texto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/synthesis/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/s%C3%ADntesi/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/s%C3%ADntese/texto/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/sintesia/testua/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/itzuli/azpitituluak/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/traducci%C3%B3n/subtitulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/translate/subtitles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/traducci%C3%B3/subt%C3%ADtols/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/traduci%C3%B3n/subt%C3%ADtulos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/itzuli/azpitituluak/"
+                />
+  </url><url>
     <loc>https://trebehome.github.io/record/eu/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,6 +108,33 @@
                 rel="alternate"
                 hreflang="eu"
                 href="https://trebehome.github.io/record/eu/categories/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/itzuli/dokumentuak/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/traducci%C3%B3n/documentos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/translate/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/traducci%C3%B3/documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/traduci%C3%B3n/documentos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/itzuli/dokumentuak/"
                 />
   </url><url>
     <loc>https://trebehome.github.io/record/eu/eskatu/gakoa/</loc>
@@ -83,58 +164,58 @@
                 href="https://trebehome.github.io/record/eu/eskatu/gakoa/"
                 />
   </url><url>
-    <loc>https://trebehome.github.io/record/eu/recorder/record/</loc>
+    <loc>https://trebehome.github.io/record/eu/itzuli/testua/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trebehome.github.io/record/es/recorder/record/"
+                href="https://trebehome.github.io/record/es/traducci%C3%B3n/texto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trebehome.github.io/record/en/recorder/record/"
+                href="https://trebehome.github.io/record/en/translate/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://trebehome.github.io/record/ca/recorder/record/"
+                href="https://trebehome.github.io/record/ca/traducci%C3%B3/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
-                href="https://trebehome.github.io/record/gl/recorder/record/"
+                href="https://trebehome.github.io/record/gl/traduci%C3%B3n/texto/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eu"
-                href="https://trebehome.github.io/record/eu/recorder/record/"
+                href="https://trebehome.github.io/record/eu/itzuli/testua/"
                 />
   </url><url>
-    <loc>https://trebehome.github.io/record/eu/recorder/</loc>
+    <loc>https://trebehome.github.io/record/eu/transkribatu/online/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trebehome.github.io/record/es/recorder/"
+                href="https://trebehome.github.io/record/es/transcripci%C3%B3n/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trebehome.github.io/record/en/recorder/"
+                href="https://trebehome.github.io/record/en/transcribe/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://trebehome.github.io/record/ca/recorder/"
+                href="https://trebehome.github.io/record/ca/transcripci%C3%B3/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gl"
-                href="https://trebehome.github.io/record/gl/recorder/"
+                href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="eu"
-                href="https://trebehome.github.io/record/eu/recorder/"
+                href="https://trebehome.github.io/record/eu/transkribatu/online/"
                 />
   </url><url>
     <loc>https://trebehome.github.io/record/eu/request/</loc>
@@ -164,6 +245,60 @@
                 href="https://trebehome.github.io/record/eu/request/"
                 />
   </url><url>
+    <loc>https://trebehome.github.io/record/eu/transkribatu/streaming/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/transcripci%C3%B3n/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/transcribe/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/transcripci%C3%B3/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/transkribatu/streaming/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/synthesis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/synthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/synthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/synthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/synthesis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/synthesis/"
+                />
+  </url><url>
     <loc>https://trebehome.github.io/record/eu/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -189,6 +324,87 @@
                 rel="alternate"
                 hreflang="eu"
                 href="https://trebehome.github.io/record/eu/tags/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/transcribe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/transcribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/transcribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/transcribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/transcribe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/transcribe/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/transkribatu/multimedia/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/transcripci%C3%B3n/multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/transcribe/media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/transcripci%C3%B3/multim%C3%A8dia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/transcrici%C3%B3n/multimedia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/transkribatu/multimedia/"
+                />
+  </url><url>
+    <loc>https://trebehome.github.io/record/eu/translate/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://trebehome.github.io/record/es/translate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trebehome.github.io/record/en/translate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://trebehome.github.io/record/ca/translate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gl"
+                href="https://trebehome.github.io/record/gl/translate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="eu"
+                href="https://trebehome.github.io/record/eu/translate/"
                 />
   </url>
 </urlset>
