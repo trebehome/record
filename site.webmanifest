@@ -1,27 +1,27 @@
 {
-    "name": "Demos",
-    "short_name": "Demos",
+    "name": "Record Trebe",
+    "short_name": "Record Trebe",
     "icons": [
         {
-            "src": "/icon_192x192.png",
+            "src": "icon_192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/icon_512x512.png",
+            "src": "icon_512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "/icon_192x192.png",
+            "src": "icon_192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/icon_512x512.png",
+            "src": "icon_512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
